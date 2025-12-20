@@ -27,7 +27,7 @@
  ### Installation
   ```
   # clone the repository
-  $ git clone https://github.com/rdWei/Lawliet
+  $ git clone https://github.com/SamueleAmato/Lawliet
   
   # change the working directory to Lawliet
   $ cd Lawliet
@@ -60,6 +60,6 @@
 
 ##
 ### Issued and Suggestions
-If you have encountered an issue with Lawliet or would like to suggest an improvement, please report it in our [Issues section](https://github.com/rdWei/Lawliet/issues).
+If you have encountered an issue with Lawliet or would like to suggest an improvement, please report it in our [Issues section](https://github.com/SamueleAmato/Lawliet/issues).
 Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br><br>
 _Thank you for your contribution!_
