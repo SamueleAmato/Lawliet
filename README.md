@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+> Development has moved to **[near](https://github.com/samueleamato/near)**, featuring an optimized codebase and a more focused scope.
+
+---
 
 <p align="center">
   <img src="docs/images/image.png" alt=""/>
